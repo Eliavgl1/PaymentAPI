@@ -1,0 +1,17 @@
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\bin\Debug\net8.0\appsettings.Development.json
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\bin\Debug\net8.0\appsettings.json
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\bin\Debug\net8.0\PaymentAPI.Infrastructure.deps.json
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\bin\Debug\net8.0\PaymentAPI.Infrastructure.dll
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\bin\Debug\net8.0\PaymentAPI.Infrastructure.pdb
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\bin\Debug\net8.0\PaymentAPI.Core.dll
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\bin\Debug\net8.0\PaymentAPI.Core.pdb
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\obj\Debug\net8.0\PaymentAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\obj\Debug\net8.0\PaymentAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\obj\Debug\net8.0\PaymentAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\obj\Debug\net8.0\PaymentAPI.Infrastructure.AssemblyInfo.cs
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\obj\Debug\net8.0\PaymentAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\obj\Debug\net8.0\PaymentA.25AF0F5A.Up2Date
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\obj\Debug\net8.0\PaymentAPI.Infrastructure.dll
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\obj\Debug\net8.0\refint\PaymentAPI.Infrastructure.dll
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\obj\Debug\net8.0\PaymentAPI.Infrastructure.pdb
+C:\Eliav\CodePracticeJobInterviews\PaymentAPI\PaymentAPI.Infrastructure\obj\Debug\net8.0\ref\PaymentAPI.Infrastructure.dll
